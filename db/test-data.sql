@@ -141,3 +141,12 @@ INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_
 INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-17', 7, '', 17);
 INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-17', 1, 'Closing', 15);
 
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 1, 'Opening', 4);
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 2, '', 18);
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 3, '', 10);
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 4, '', 14);
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 5, 'GB Update 6', 122);
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 6, '', 1);
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 7, '', 7);
+INSERT INTO assignment (created_at, assignment_date, item_type_id, name, person_id) VALUES (date('now'), '2021-08-23', 1, 'Closing', 19);
+
