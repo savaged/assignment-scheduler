@@ -12,6 +12,8 @@ CREATE TABLE item_type(
 );
 CREATE TABLE assignment(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT,
+    assignment_date TEXT NOT NULL,
     created_at TEXT NOT NULL,
     archived_at TEXT,
     person_id INTEGER NOT NULL,
